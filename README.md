@@ -50,6 +50,8 @@ El proyecto se ejecuta en tres ciclos cortos orientados a resultados:
 **Tareas:** Exportar modelo final (`.joblib`), documentar resultados y preparar presentación final.
 **Entregables:** Modelo productivo y README profesional.
 
+El tablero de planeación y ejecución de las tareas se puede consultar en el siguiente enlace: https://github.com/users/SorenAcevedo/projects/2/views/3
+
 ## 💻 Flujo de Trabajo (Git & GitHub)
 Para mantener la integridad del código, se sigue este flujo colaborativo basado en buenas prácticas de ingeniería de datos:
 
